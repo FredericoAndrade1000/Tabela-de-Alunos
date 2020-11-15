@@ -1,0 +1,59 @@
+body{
+	background-color: #2D2B55;
+}
+h1, h2, h3, h4{
+	font-family: Arial;
+	font-weight: 200;
+	color: #BBB1FF;
+}
+table, td{
+	padding: 5px;
+	text-align: center;
+	border: 1px solid;
+	color: #BBB1FF;
+}
+table{
+	margin: auto;
+}
+.interface{
+	background-color: #1E1C41;
+	width: 960px;
+	margin: -10px auto 0 auto;
+	padding-left: 20px;
+	padding-bottom: 60px;
+	overflow: hidden;
+}
+.campAdd{
+	width: 740px;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+}
+.campRemove{
+	width: 400px;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+}
+.col3{
+	float: left;
+	margin: auto;
+}
+.textInput{
+	font-family: Arial;
+	margin: 0 auto;
+	font-size: 15px;
+}
+.item1{
+	width: 200px;
+	height: 30px;
+}
+.item2, .item3, .item4{
+	width: 100px;
+	height: 30px;
+}
+
